@@ -53,6 +53,7 @@ module Api
 
 			def options
 				@options ||= { include: %i[reviews] }
-            end 
-      end 
+			end 
+          end 
+     end 
 end 
